@@ -2,7 +2,7 @@
 
 <h1>Exploring ICMP - Uncoering Networking Diagnostics</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://www.youtube.com/watch?v=PqyTfeyG8dw&t=1s)
 
 <h2>Description</h2>
 This hands-on project explores networking protocols in Wireshark, specifically internet control message packets, or ICMP.  ICMP is helpful in diagnosing connectivity issues between devices and is used in various security applications including Intrustion Detection Systems (IDS), network detection, and forensic analysis.  Security professionals find it useful for detecting unsual activity such as malicious scanning and denial-of-service (DOS) attacks.  
