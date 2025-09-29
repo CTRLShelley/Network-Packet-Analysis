@@ -1,6 +1,6 @@
 # Networking Projects
 
-<h1>Exploring ICMP - Uncoering Networking Diagnostics</h1>
+<h1>Exploring ICMP - Uncovering Networking Diagnostics</h1>
 
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=PqyTfeyG8dw&t=1s)
 
