@@ -1,6 +1,6 @@
 🛜 Networking Projects 🛜
 
-<h1>Uncovering Networking Diagnostics with Traceroute and ICMP</h1>
+<h1>Wireshark Network Diagnostics with Traceroute and ICMP</h1>
 
  ### [🎥 CTRL Shelley - YouTube Demonstration](https://www.youtube.com/watch?v=PqyTfeyG8dw&t=1s)
 
